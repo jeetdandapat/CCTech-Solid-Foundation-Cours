@@ -37,16 +37,16 @@ Project/
 
 Contains:
 
-* Abstract Shape class
+* Shape abstract class declaration
 * Pure virtual function area()
 * Pure virtual function perimeter()
 * Virtual destructor
-* Circle class declaration
 
 ### Circle.cpp
 
 Contains:
 
+* Circle class implementation
 * Circle constructor implementation
 * area() implementation
 * perimeter() implementation
@@ -128,8 +128,6 @@ virtual double area() const = 0;
 virtual double perimeter() const = 0;
 ```
 
----
-
 ### Inheritance
 
 Circle inherits from Shape.
@@ -137,8 +135,6 @@ Circle inherits from Shape.
 ```cpp
 class Circle : public Shape
 ```
-
----
 
 ### Polymorphism
 
@@ -173,10 +169,9 @@ Area = 78.5
 Perimeter = 31.4
 ```
 
+
+
 ---
-
-
-
 
 ## Learning Outcome
 
