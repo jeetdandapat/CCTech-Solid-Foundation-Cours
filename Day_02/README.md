@@ -15,7 +15,7 @@
 
 ## Folder Structure
 
-
+```text
 Day_02
 │
 ├── README.md
@@ -23,7 +23,7 @@ Day_02
 │
 └── Practice_Files
    
-
+```
 
 ## What I Learned
 
