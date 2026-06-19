@@ -1,6 +1,6 @@
 # Day 07 - React and Component Architecture
 
-Topics Revised
+* Topics Revised
 
 React Functional Components
 Props and Data Flow
