@@ -11,4 +11,4 @@ Implemented endpoints:
 * GET /projects/:id
 * PATCH /projects/:id/status
 
-Used in-memory storage, request validation, error handling, CORS, and request logging middleware.
+Used in-memory storage, request validation, error handling, CORS, and request logging middleware .
