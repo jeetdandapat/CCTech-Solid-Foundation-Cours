@@ -10,3 +10,14 @@
 * Learned Jest basics for JavaScript and API testing.
 * Learned `describe()`, `it()`, `expect()`, mocking, and coverage.
 
+## Test Results
+
+### Google Test Result
+
+![Google Test Result](screenshots/gtest-result.png)
+
+### Jest Test Result
+
+![Jest Test Result](screenshots/jest-result.png)
+
+
