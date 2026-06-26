@@ -1,32 +1,62 @@
-# React + TypeScript + Vite
+# Day 11 - Frontend State Management and API Integration
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## Topics Covered
 
-Currently, two official plugins are available:
+* React Frontend ↔ Backend API Integration
+* Fetch API (GET, POST, PATCH)
+* Async/Await
+* Loading, Error, and Success States
+* API Client Layer (`projectApi.ts`)
+* `useReducer` State Management
+* TypeScript Interfaces & Typed Responses
+* Environment Variables (`.env`)
+* `useEffect` for Data Fetching
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Files Created
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
-
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+```text
+src/
+├── api/
+│   └── projectApi.ts
+├── components/
+│   └── ProjectDashboard.tsx
+├── App.tsx
+└── main.tsx
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+---
+
+## Features
+
+* Fetch all projects
+* Create a new project
+* Update project status
+* Loading/Error/Success UI
+* API layer separated from UI
+* Typed API responses
+* State management using `useReducer`
+* Backend URL managed with `.env`
+
+---
+
+## Technologies Used
+
+* React
+* TypeScript
+* Vite
+* Fetch API
+* useReducer
+* Environment Variables
+
+---
+
+## Learning Outcome
+
+* Learned API integration using Fetch API.
+* Practiced async/await and error handling.
+* Built a reusable API client layer.
+* Managed application state using `useReducer`.
+* Used TypeScript for type safety.
+* Configured backend URL using environment variables.
