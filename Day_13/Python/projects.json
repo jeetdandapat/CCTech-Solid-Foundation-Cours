@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Bank System",
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "name": "Chat App",
+        "status": "inactive"
+    },
+    {
+        "id": 3,
+        "name": "Weather App",
+        "status": "active"
+    },
+    {
+        "id": 4,
+        "name": "Student Portal",
+        "status": "active"
+    }
+]

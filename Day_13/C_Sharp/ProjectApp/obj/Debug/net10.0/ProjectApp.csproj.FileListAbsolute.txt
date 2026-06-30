@@ -1,0 +1,15 @@
+C:\Users\JEET DANDAPAT\OneDrive\Desktop\CCTech-Solid-Foundation-Course\Day_13\C_Sharp\ProjectApp\bin\Debug\net10.0\ProjectApp.exe
+C:\Users\JEET DANDAPAT\OneDrive\Desktop\CCTech-Solid-Foundation-Course\Day_13\C_Sharp\ProjectApp\bin\Debug\net10.0\ProjectApp.deps.json
+C:\Users\JEET DANDAPAT\OneDrive\Desktop\CCTech-Solid-Foundation-Course\Day_13\C_Sharp\ProjectApp\bin\Debug\net10.0\ProjectApp.runtimeconfig.json
+C:\Users\JEET DANDAPAT\OneDrive\Desktop\CCTech-Solid-Foundation-Course\Day_13\C_Sharp\ProjectApp\bin\Debug\net10.0\ProjectApp.dll
+C:\Users\JEET DANDAPAT\OneDrive\Desktop\CCTech-Solid-Foundation-Course\Day_13\C_Sharp\ProjectApp\bin\Debug\net10.0\ProjectApp.pdb
+C:\Users\JEET DANDAPAT\OneDrive\Desktop\CCTech-Solid-Foundation-Course\Day_13\C_Sharp\ProjectApp\obj\Debug\net10.0\ProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JEET DANDAPAT\OneDrive\Desktop\CCTech-Solid-Foundation-Course\Day_13\C_Sharp\ProjectApp\obj\Debug\net10.0\ProjectApp.AssemblyInfoInputs.cache
+C:\Users\JEET DANDAPAT\OneDrive\Desktop\CCTech-Solid-Foundation-Course\Day_13\C_Sharp\ProjectApp\obj\Debug\net10.0\ProjectApp.AssemblyInfo.cs
+C:\Users\JEET DANDAPAT\OneDrive\Desktop\CCTech-Solid-Foundation-Course\Day_13\C_Sharp\ProjectApp\obj\Debug\net10.0\ProjectApp.csproj.CoreCompileInputs.cache
+C:\Users\JEET DANDAPAT\OneDrive\Desktop\CCTech-Solid-Foundation-Course\Day_13\C_Sharp\ProjectApp\obj\Debug\net10.0\ProjectApp.sourcelink.json
+C:\Users\JEET DANDAPAT\OneDrive\Desktop\CCTech-Solid-Foundation-Course\Day_13\C_Sharp\ProjectApp\obj\Debug\net10.0\ProjectApp.dll
+C:\Users\JEET DANDAPAT\OneDrive\Desktop\CCTech-Solid-Foundation-Course\Day_13\C_Sharp\ProjectApp\obj\Debug\net10.0\refint\ProjectApp.dll
+C:\Users\JEET DANDAPAT\OneDrive\Desktop\CCTech-Solid-Foundation-Course\Day_13\C_Sharp\ProjectApp\obj\Debug\net10.0\ProjectApp.pdb
+C:\Users\JEET DANDAPAT\OneDrive\Desktop\CCTech-Solid-Foundation-Course\Day_13\C_Sharp\ProjectApp\obj\Debug\net10.0\ProjectApp.genruntimeconfig.cache
+C:\Users\JEET DANDAPAT\OneDrive\Desktop\CCTech-Solid-Foundation-Course\Day_13\C_Sharp\ProjectApp\obj\Debug\net10.0\ref\ProjectApp.dll
