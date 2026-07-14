@@ -6,9 +6,7 @@ dotenv.config();
 
 const client = new Anthropic({
     apiKey: process.env.ANTHROPIC_API_KEY,
-});
-
-
+})
 const documents: string[] = [
     "Python is a programming language.",
     "Claude is developed by Anthropic.",
